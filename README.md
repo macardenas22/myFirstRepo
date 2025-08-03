@@ -4,4 +4,7 @@ Un commit desde Github
 
 un nuevo commit más desde web
 
-Create change from my local branch named Developer01
+![website](https://www.platzi.com)
+ver etiquetas en https://shields.io/badges
+
+markdownLint app vsc
